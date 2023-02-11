@@ -13,6 +13,7 @@ const messages = [
     "Batman! (this commit has no parents)",
     "Mi primer paquete para npm",
     "Gracias al curso de Oscar Barajas",
+    "Esta es una prueba de versionamiento"
   ];
   
   const funnyCommit = () => {
