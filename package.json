@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-plzi",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoC117/random-str-msg-plzi.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Cuevas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GustavoC117/random-str-msg-plzi/issues"
+  },
+  "homepage": "https://github.com/GustavoC117/random-str-msg-plzi#readme",
+  "bin": {
+    "random-str-msg-plzi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
